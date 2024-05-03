@@ -3,15 +3,5 @@ requests
 pandas
 numpy
 
-sqlite
-
 Pillow
 opencv-python
-
-os
-sys
-datetime
-json
-collections
-pathlib
-logging
