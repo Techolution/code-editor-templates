@@ -1,0 +1,21 @@
+{
+  "name": "vanilla-js",
+  "version": "0.0.1",
+  "description": "A simple js library in pure vanilla js",
+  "source": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "library",
+    "vanilla",
+    "js"
+  ],
+  "author": "Bhawani Shankar Bharti<bhawani.bharti@techolution.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
