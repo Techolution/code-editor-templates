@@ -7,5 +7,6 @@ export default defineConfig({
   server:{
     host: '0.0.0.0',
     port: 4200
-  }
+  },
+  base: '{{path}}' // Add base path to your application.
 })
